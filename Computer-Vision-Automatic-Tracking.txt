@@ -1,0 +1,25 @@
+COMPUTER VISION AUTOMATIC TRACKING - BALL TRACKING IN TENNIS
+
+##################### Group Project ##################### 
+Authors: Veton Sulejmani, Nicola Rossi
+Professor: Nicola Conci
+Course: Computer Vision
+Mechatronics Engineering ,Master Degree (LM-33-Mechanical Engineering)
+University of Trento 
+######################################################### 
+
+
+################### Project contents ####################
+*** Creation of YOLO detector for automatic ball tracking in limited quality tennis videos ***
+Machine learning application which aims to create a YOLO Detector for the detection of real time
+objects, in particular for the detection of tennis ball in limited quality tennis game videos.
+The creation of the Neural Network is obtained through a training procedure using the 
+tools of python, Google Colab and OpenCV libraries. 
+
+Contents of the project: 
+- image labeling (500-1000 pictures) via labelImg
+- creation of the training procedure on Google Colab
+- python code running (subdivision in training/testing datasets)
+- configuration of yolo-v3 artificial neural network (ANN)
+- training of the algorithm in order to obtain the final models
+- application of the model to new videos (NOT in training/testing data frames)
