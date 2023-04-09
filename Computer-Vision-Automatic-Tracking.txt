@@ -4,7 +4,7 @@ COMPUTER VISION AUTOMATIC TRACKING - BALL TRACKING IN TENNIS
 Authors: Veton Sulejmani, Nicola Rossi
 Professor: Nicola Conci
 Course: Computer Vision
-Mechatronics Engineering ,Master Degree (LM-33-Mechanical Engineering)
+Mechatronics Engineering, Master Degree (LM-33-Mechanical Engineering)
 University of Trento 
 ######################################################### 
 
