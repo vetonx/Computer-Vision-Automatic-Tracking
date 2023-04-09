@@ -9,4 +9,4 @@ with the bounding box detecting the position of the tennis ball and the confiden
 The file is not complete since the training procedure for the creation of the ANN is not present.
 
 Further information relative to the complete NN creation and training procedure, extended videos of the results collected,
-python codes of the final detectors and other information can be asked via LinkedIn: https://www.linkedin.com/in/veton-sulejmani-b05aa3229/
+python codes of the final detector and other information can be asked via LinkedIn: https://www.linkedin.com/in/veton-sulejmani-b05aa3229/
